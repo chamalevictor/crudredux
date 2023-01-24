@@ -1,0 +1,154 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Jugo de Zanahoria",
+      "precio": "31111"
+    },
+    {
+      "id": 2,
+      "nombre": "Jugo de Naranja",
+      "precio": "1"
+    },
+    {
+      "nombre": "Jugo de Naranja",
+      "precio": "300",
+      "id": 3
+    },
+    {
+      "nombre": "Rib Eye 800g",
+      "precio": "200",
+      "id": 4
+    },
+    {
+      "nombre": "Jugo de Fresa",
+      "precio": "200",
+      "id": 5
+    },
+    {
+      "nombre": "Rib Eye",
+      "precio": 800,
+      "id": 6
+    },
+    {
+      "nombre": "Rib Eye",
+      "precio": 5,
+      "id": 7
+    },
+    {
+      "nombre": "Rib Eye",
+      "precio": 5,
+      "id": 8
+    },
+    {
+      "nombre": "Carnívoras",
+      "precio": 700,
+      "id": 9
+    },
+    {
+      "nombre": "Carnívoras",
+      "precio": 55,
+      "id": 10
+    },
+    {
+      "nombre": "Carnívoras",
+      "precio": 800,
+      "id": 11
+    },
+    {
+      "nombre": "Carnívoras",
+      "precio": 800,
+      "id": 12
+    },
+    {
+      "nombre": "Carnívoras",
+      "precio": 8004,
+      "id": 13
+    },
+    {
+      "nombre": "Carnívoras",
+      "precio": 800,
+      "id": 14
+    },
+    {
+      "nombre": "Carnívoras",
+      "precio": 800,
+      "id": 15
+    },
+    {
+      "nombre": "Carnívoras",
+      "precio": 800,
+      "id": 16
+    },
+    {
+      "nombre": "Carnívoras",
+      "precio": 800,
+      "id": 17
+    },
+    {
+      "nombre": "Carnívoras",
+      "precio": 50,
+      "id": 18
+    },
+    {
+      "nombre": "Carnívoras",
+      "precio": 50,
+      "id": 19
+    },
+    {
+      "nombre": "Carnívoras",
+      "precio": 100,
+      "id": 20
+    },
+    {
+      "nombre": "Carnívoras",
+      "precio": 1000,
+      "id": 21
+    },
+    {
+      "nombre": "Carnívoras",
+      "precio": 5000,
+      "id": 22
+    },
+    {
+      "nombre": "Carnívoras",
+      "precio": 88888,
+      "id": 23
+    },
+    {
+      "nombre": "Carne",
+      "precio": 700,
+      "id": 24
+    },
+    {
+      "nombre": "Carne",
+      "precio": 770,
+      "id": 25
+    },
+    {
+      "nombre": "Carne",
+      "precio": 88,
+      "id": 26
+    },
+    {
+      "nombre": "Carne",
+      "precio": 55,
+      "id": 27
+    },
+    {
+      "nombre": "Carne",
+      "precio": 50,
+      "id": 28
+    },
+    {
+      "nombre": "Carne",
+      "precio": 50,
+      "id": 29
+    },
+    {
+      "nombre": "Carne",
+      "precio": 5,
+      "id": 30
+    }
+  ]
+}
